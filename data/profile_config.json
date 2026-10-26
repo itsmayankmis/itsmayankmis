@@ -7,7 +7,7 @@
     "fields": [
       { "key": "Role", "value": "Mechanical Engineering @ BIET Jhansi" },
       { "key": "CAD/CAE", "value": "SolidWorks, Onshape, FreeCAD, ANSYS" },
-      { "key": "Focus", "value": "Machine Design, Simulation, Dynamics" },
+      { "key": "Focus", "value": "Machine Design, FEA, Vehicle Systems" },
       { "key": "Tech", "value": "Python, Linux, Raspberry Pi, Arduino" }
     ],
     "now": "Mechanical Engineering @ BIET Jhansi ('23–'27)",
@@ -24,6 +24,6 @@
     "email": "mailto:mishra.mayankkk@gmail.com",
     "linkedin": "https://linkedin.com/in/itsmayankmis",
     "github": "https://github.com/itsmayankmis",
-    "instagram": "https://instagram.com/itsmayankmis"
+    "instagram": "https://www.instagram.com/sapien_called_mayank"
   }
 }
